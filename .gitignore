@@ -1,0 +1,26 @@
+# Environments & Virtual Envs
+.venv/
+venv/
+ENV/
+env/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# IDE & OS Files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Temporary scratch files
+scratch/
+
+# Guide & specification documents
+rubiks_cube_debug_visualizer_guide*.md
+rubiks_cube_project_documentation*.md
