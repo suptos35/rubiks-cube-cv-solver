@@ -172,6 +172,7 @@ rubic/
 │   └── pipeline_steps.gif # Visual demonstration of pipeline stages
 ├── sample_faces/          # Test sample photographs
 ├── requirements.txt       # Python dependencies
+├── LICENSE                # MIT License
 ├── .gitignore             # Git ignore rules
 └── README.md              # Project documentation
 ```
@@ -180,4 +181,4 @@ rubic/
 
 ## 📜 License
 
-Distributed under the MIT License. See `LICENSE` for details.
+Distributed under the MIT License. See [LICENSE](LICENSE) for details.
